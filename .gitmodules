@@ -1,0 +1,6 @@
+[submodule "TwitterServer"]
+	path = TwitterServer
+	url = https://github.com/mehrshad-kh/TwitterServer
+[submodule "TwitterClient"]
+	path = TwitterClient
+	url = https://github.com/mehrshad-kh/TwitterClient
