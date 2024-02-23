@@ -12,7 +12,7 @@ Both projects were done as part of the Advanced Programming course we took at [A
 
 ## Acknowledgments
 
-Created by: Me, Mehrshad Khansarian, and my teammate [Amirsalar Abedini][5]
+Created by: Me, Mehrshad Khansarian, and my teammate, [Amirsalar Abedini][5]
 
 [1]: https://github.com/mehrhsad-kh/TwitterServer
 [2]: https://github.com/mehrhsad-kh/TwitterClient
